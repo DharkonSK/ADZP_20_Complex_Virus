@@ -1,6 +1,6 @@
 # ADZP 20 Complex
 
-## advertencia
+## ADVERTENCIA
 
 ### Este troyano es un proyecto largo de un año de 2023, no se aprueba el uso de este troyano en una computadora, para usar este malware es recomendable usar maquina virtual, no me hare responsable de daños causados por este software
 

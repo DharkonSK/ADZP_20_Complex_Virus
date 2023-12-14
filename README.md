@@ -6,7 +6,7 @@
 
 ## Como funciona
 
-### Este es un troyano complejo desarrollado en MS-DOS Batch o lenguaje de scripting de windows, inicia creando los archivos de su ejecucion como VBS, EXE, INF, DLL, BAT y CMD, luego procede a enviar mensajes de informacion, error y advertencia, estos mensajes no se pueden cerrar de ninguna forma, poco despues comienza a abrir muchas aplicaciones y y la eiminacion en System32 despues de acabar con los archivos de arranque el malware formatea toda unidad que este disponible y se copia a si mismo junto a un autorun, finalmente el malware crashea windows y no arranca mas
+Este es un troyano complejo desarrollado en MS-DOS Batch o lenguaje de scripting de windows, inicia creando los archivos de su ejecucion como VBS, EXE, INF, DLL, BAT y CMD, luego procede a enviar mensajes de informacion, error y advertencia, estos mensajes no se pueden cerrar de ninguna forma, poco despues comienza a abrir muchas aplicaciones y y la eiminacion en System32 despues de acabar con los archivos de arranque el malware formatea toda unidad que este disponible y se copia a si mismo junto a un autorun, finalmente el malware crashea windows y no arranca mas
 
 ## Contacto
 
